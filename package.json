@@ -1,0 +1,20 @@
+{
+  "name": "ups-service-codes",
+  "version": "0.0.0",
+  "description": "Translation table for UPS service codes and their descriptions",
+  "main": "index.js",
+  "scripts": {
+    "preversion": "npm test",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gswalden/ups-service-codes.git"
+  },
+  "author": "Greg Walden <hi@gsw.nyc>",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}

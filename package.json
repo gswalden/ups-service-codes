@@ -1,6 +1,6 @@
 {
   "name": "ups-service-codes",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Translation table for UPS service codes and their descriptions",
   "main": "index.js",
   "scripts": {
